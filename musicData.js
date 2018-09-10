@@ -1,4 +1,4 @@
-<script>
+
 //下記スクリプトのデータを丸々コピーしてサイトを運営するのはやめてください。
 var CmusicDB= [
 {
@@ -73,8 +73,7 @@ var CmusicDB= [
   masterArray:["13","1,024","","","","","","94","13.0","緑化委員長"],
   picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-Z379I20XBjU/W4sccwqOb2I/AAAAAAAAAhA/Q5Qpkz1_U40HXhBCbr2NXDBUGLF7CvYCwCE0YBhgL/s1024/Grip%2B%2526%2BBreak%2Bdown%2B%2521%2521.jpg" />'
 }
-]
-</script>
+];
 
 
 
