@@ -76,7 +76,7 @@ var CcardDB= [
   cardname:"[普通の魔法使い]霧雨魔理沙",
   name:"霧雨魔理沙",
   CollaborationName:"東方Project",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/10/232452",
   rare:"SR",
   attribute:"LEAF",
   skilType:"ATTACK",
