@@ -1678,5 +1678,28 @@ var cardDB= [
   power4:242,
   power5:257,
   picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-jNcePZJ2EU4/W3x9DZmBTHI/AAAAAAAAAKQ/PMQpQs5k2OobS6fP20J3wCbEyh-EnWD8gCE0YBhgL/s1024/%25E5%2586%2599%25E7%259C%259F%2B2018-08-14%2B17%2B12%2B06%2B%25286%2529.png" />'
+},
+{
+  number: "1.00-0072",
+  cardname: "[シューター・ドレス]桜井春菜",
+  name:"桜井春菜",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/11/003138",
+  rare:"R",
+  attribute:"FIRE",
+  skilType:"ATTACK",
+  cardDate:"2018.8.9",
+  skilName:"ボスアタック+10",
+  skilDetail1:"バトル後半で、自身の攻撃力10％アップ",
+  skilDetail2:"データーなし（情報提供求）",
+  HTG:"第１章チャプター５でジュエル５個で購入",
+  school:"奏坂高校",
+  schoolyear:"2年生",
+  maxlevel:70,
+  power1:197,
+  power2:212,
+  power3:227,
+  power4:242,
+  power5:257,
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-31QTgOqfp00/W3x8XMBAj4I/AAAAAAAAAKQ/fI9ZjW3D77sKxJ0af1j00NHoOOBYs_0KACE0YBhgL/s1024/%25E5%2586%2599%25E7%259C%259F%2B2018-08-14%2B17%2B12%2B06%2B%25287%2529.png" itemprop="image">'
 }
 ];
