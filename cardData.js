@@ -1679,4 +1679,4 @@ var cardDB= [
   power5:257,
   picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-jNcePZJ2EU4/W3x9DZmBTHI/AAAAAAAAAKQ/PMQpQs5k2OobS6fP20J3wCbEyh-EnWD8gCE0YBhgL/s1024/%25E5%2586%2599%25E7%259C%259F%2B2018-08-14%2B17%2B12%2B06%2B%25286%2529.png" />'
 }
-]
+];
