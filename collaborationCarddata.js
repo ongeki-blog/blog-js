@@ -69,7 +69,31 @@ var CcardDB= [
   power3:227,
   power4:242,
   power5:257,
-  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-OfYc52ZHhhs/W49X5cTmiUI/AAAAAAAAAns/KLqSSDE_BOwiI3f2-VzWEi0cGbXz53yLQCE0YBhgL/s1024/%25E5%258D%259A%25E9%25BA%2597%25E9%259C%258A%25E5%25A4%25A2-1.png" itemprop="image">'
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-GsLatB7cGww/W49X5WYa63I/AAAAAAAAAns/jsPuMqN6lfkSGxz7bF3wA__oR38-hSFpACE0YBhgL/s1024/%25E9%259C%25A7%25E9%259B%25A8%25E9%25AD%2594%25E7%2590%2586%25E6%25B2%2599-1.png" itemprop="image">'
+},
+{
+  number:"1.00-E-0020",
+  cardname:"[普通の魔法使い]霧雨魔理沙",
+  name:"霧雨魔理沙",
+  CollaborationName:"東方Project",
+  URL:"",
+  rare:"SR",
+  attribute:"LEAF",
+  skilType:"ATTACK",
+  cardDate:"2018.8.30",
+  skilName:"ボスアタック+15",
+  skilDetail1:"バトル後半で、自身の攻撃力が15%アップ",
+  skilDetail2:"データーなし（情報提供求）",
+  HTG:"東方Projectコラボ(イベントジュエル75個で購入)",
+  school:"-",
+  schoolyear:"-",
+  maxlevel:70,
+  power1:222,
+  power2:0,
+  power3:0,
+  power4:0,
+  power5:0,
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-XJnlVb7gMSs/W49X5Ug3EpI/AAAAAAAAAns/1t6RiL6J87MT94zN9KA5p9Y-YkbcQuXqgCE0YBhgL/s1024/%25E9%259C%25A7%25E9%259B%25A8%25E9%25AD%2594%25E7%2590%2586%25E6%25B2%2599-2.png" itemprop="image">'
 }
 
 ];
