@@ -1,4 +1,6 @@
 function In_cardData(number,skilName,type){
+var items=[];
+var items1=[];
 if(type==5){
 
 
