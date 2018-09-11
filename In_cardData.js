@@ -50,7 +50,7 @@ document.getElementById('skilDetail1').innerHTML =  items[0].skilDetail1;
 document.getElementById('skilDetail2').innerHTML =  items[0].skilDetail2;
 document.getElementById('HTG').innerHTML =  items[0].HTG;
 }
-}
+
 
 
 
