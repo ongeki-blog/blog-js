@@ -1885,5 +1885,33 @@ var cardDB= [
   power4:0,
   power5:0,
   picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-eFGbb7FFZCM/W3x9Ub7C6EI/AAAAAAAAAKQ/VMZPsnd0OpUMA7zgQdOD_nJV9nPsw2FTACE0YBhgL/s1024/%25E5%2586%2599%25E7%259C%259F%2B2018-08-14%2B17%2B12%2B07.png" />'
+},
+{
+  number: "1.00-0081",
+  cardname: "井之原小星",
+  name:"井之原小星",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/12/000200",
+  rare:"N",
+  attribute:"LEAF",
+  skilType:"ATTACK",
+  cardDate:"2018.9.6",
+  skilName:"ボスアタック+5",
+  skilDetail1:"バトル後半で、自身の攻撃力5％アップ",
+  skilDetail2:"データーなし（情報提供求）",
+  HTG:"第1章チャプター7開始時に入手",
+  school:"奏坂高校",
+  schoolyear:"1年生",
+  maxlevel:100,
+  power1:197,
+  power2:212,
+  power3:0,
+  power4:0,
+  power5:0,
+  power6:0,
+  power7:0,
+  power8:0,
+  power9:0,
+  power10:0,
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-v4eIggOcXVg/W5fJsHrFxfI/AAAAAAAAAo8/Bo55EI49fGwORxojtoML4cBWlsnAhC7JACE0YBhgL/s1024/6b8b701d8782febe.png" />'
 }
 ];
