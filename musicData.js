@@ -61,7 +61,7 @@ var CmusicDB= [
   CollaborationName:"東方Project",
   artist: "豚乙女",
   BPM:"230",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/05/065900",
   musicTime:"2:23",
   chapter:"東方Project",
   Vscha:"霧雨魔理沙(Lv.5)",
@@ -71,7 +71,7 @@ var CmusicDB= [
   advancedArray:["7","","","","","","","","",""],
   expertArray:["10","764","","","","","","75","","rioN"],
   masterArray:["13","1,024","","","","","","94","13.0","緑化委員長"],
-  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-Z379I20XBjU/W4sccwqOb2I/AAAAAAAAAhA/Q5Qpkz1_U40HXhBCbr2NXDBUGLF7CvYCwCE0YBhgL/s1024/Grip%2B%2526%2BBreak%2Bdown%2B%2521%2521.jpg" />'
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-xE2enEe-ydM/W47KTVn8MRI/AAAAAAAAAkk/5ugERxws80M38oZ0wCThxooPHyG6U3gIQCE0YBhgL/s1024/%25E5%25B9%25BB%25E6%2583%25B3%25E3%2581%25AE%25E3%2582%25B5%25E3%2583%2586%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2588.jpg" itemprop="image">'
 }
 ];
 
