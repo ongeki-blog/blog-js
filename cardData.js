@@ -2010,7 +2010,7 @@ var cardDB= [
   number: "1.00-0086",
   cardname: "[ぐーたらゲーマー]井之原小星",
   name:"井之原小星",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/13/141212",
   rare:"SR",
   attribute:"LEAF",
   skilType:"ATTACK",
