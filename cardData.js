@@ -2222,7 +2222,7 @@ var cardDB= [
   number: "1.00-0095",
   cardname: "[紫電一閃]九條楓",
   name:"九條楓",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/15/000657",
   rare:"SSR",
   attribute:"LEAF",
   skilType:"ATTACK",
