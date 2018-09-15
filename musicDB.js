@@ -2,7 +2,7 @@ var musicDB=[
 {
   musicName: "Perfect Shining!!",
   genre:"オンゲキ",
-  CollaborationName:"1-01",
+  class:"1-01-01",
   artist: "曲：宮崎誠 歌：星咲 あかり(CV:赤尾 ひかる)",
   BPM:"182",
   URL:"",
