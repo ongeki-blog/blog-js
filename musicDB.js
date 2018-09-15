@@ -7,7 +7,7 @@ var musicDB=[
   BPM:"182",
   URL:"",
   musicTime:"2:23",
-  chapter:"チャプター01「目指せ！いっぱいのエール！」",
+  chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"星咲あかり(Lv.1)",
   banMethod:"チャプター:目指せ！いっぱいのエール！",
   musicDate:"2018.7.26",
