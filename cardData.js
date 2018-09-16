@@ -222,7 +222,7 @@ var cardDB= [
   attribute:"FIRE",
   skilType:"BOOST",
   cardDate:"2018.7.26",
-  skilName:"ファイヤブースト+20",
+  skilName:"ファイアブースト+20",
   skilDetail1:"FIRE属性のカードかつATTACKのカードの攻撃力が20％アップ",
   skilDetail2:"データーなし（情報提供求）",
   HTG:"第1章ENDチャプター内でジュエル5000個で購入(一回目のみ）",
