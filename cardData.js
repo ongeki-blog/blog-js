@@ -148,7 +148,7 @@ var cardDB= [
   number: "1.00-0007",
   cardname: "[ようこそ！奏坂へ！]星咲あかり",
   name:"星咲あかり",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/08/23/070115",
   rare:"SR",
   attribute:"FIRE",
   skilType:"BOOST",
