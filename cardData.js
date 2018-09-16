@@ -413,7 +413,7 @@ var cardDB= [
   cardDate:"2018.7.26",
   skilName:"アタック+10",
   skilDetail1:"自身の攻撃力が10%アップ",
-  skilDetail2:"データーなし（情報提供求）",
+  skilDetail2:"【アタック+12】<br>自身の攻撃力12％アップ",
   HTG:"第1章チャプター１内でジュエル75個で購入(一回目のみ）",
   school:"奏坂高校",
   schoolyear:"2年生",
