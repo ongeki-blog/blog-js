@@ -1568,7 +1568,7 @@ var cardDB= [
   attribute:"AQUA",
   skilType:"ATTACK",
   cardDate:"2018.8.9",
-  skilName:" アタック+11",
+  skilName:"アタック+11",
   skilDetail1:"自身の攻撃力が11％アップ",
   skilDetail2:"データーなし（情報提供求）",
   HTG:"レアガチャプリンターで入手",
