@@ -1,5 +1,5 @@
 
 
 $(function(){
-alert($('a').html());
+alert($('.name_block').html());
 });
