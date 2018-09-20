@@ -3,6 +3,6 @@ var playerDate = {
   };
 
 $(function(){
-  $('.name_block span').html()
+  $('span').html()
 alert();
 });
