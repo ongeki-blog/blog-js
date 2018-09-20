@@ -22,7 +22,9 @@ $(function get_musicData() {
         url: 'https://ongeki-net.com/ongeki-mobile/record/musicGenre/search/?genre=99&diff=3',
         dataType: 'html',
         success: function(data) {
-            console.log($(data).find('.music_label').text());
+            $(data).find('.music_label').each(function(){
+        alert( $(this).text() );  // 'foo', 'bar'と表示
+    });
         }
     });
 });
