@@ -23,7 +23,7 @@ $(function get_musicData() {
         dataType: 'html',
         success: function(data) {
             $(data).find('.music_label').each(function(){
-        alert( $(this).text() );  // 'foo', 'bar'と表示
+        console.log( $(this).text() );  // 'foo', 'bar'と表示
     });
         }
     });
