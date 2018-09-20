@@ -7,6 +7,6 @@ var playerDate = {
   };
 
 $(function(){
-  $('.name_block').html()
+  $('.name_block span').html()
 alert();
 });
