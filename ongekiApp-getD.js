@@ -1,8 +1,12 @@
 var playerDate = {
-  name:
+  player_name:"",
+  player_level:"",
+  player_trophy:"",
+  player_ratingNow:"",
+  player_ratingMax:""
   };
 
 $(function(){
-  $('.name_block span').html()
+  $('.name_block').html()
 alert();
 });
