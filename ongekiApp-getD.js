@@ -4,7 +4,7 @@ var playerDate = {
   player_trophy:"",
   player_ratingNow:"",
   player_ratingMax:"",
-  player_battlePoint:"",
+  player_battlePoint:""
   };
 
 $(function(){
