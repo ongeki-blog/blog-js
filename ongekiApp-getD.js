@@ -13,5 +13,5 @@ $(function(){
   playerDate.player_trophy=$('.trophy_block span').html();
   playerDate.player_ratingNow=$('.rating_field span').html();
   playerDate.player_battlePoint=$('.battle_point_10').html();
-  alert(playerDate);
+  alert(playerDate.join(","));
 });
