@@ -79,7 +79,7 @@ var CmusicDB= [
   CollaborationName:"東方紅魔郷",
   artist: "激戦の人",
   BPM:"",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/20/184809",
   musicTime:"",
   chapter:"東方紅魔郷",
   Vscha:"紅美鈴(Lv.1)",
@@ -89,7 +89,7 @@ var CmusicDB= [
   advancedArray:["6","","","","","","","","",""],
   expertArray:["9","","","","","","","","",""],
   masterArray:["12+","","","","","","","","",""],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-CiP6RWmBKXI/W6NqMYZ9RuI/AAAAAAAAA0Q/TEIgGfwPtnQz8K09DPOz7PLTNqiHA2HTgCE0YBhgL/s1024/a49b0b435332142f.png" itemprop="image">'
 },
 {
   musicName: "アクアテラリウム",
@@ -97,7 +97,7 @@ var CmusicDB= [
   CollaborationName:"東方紅魔郷",
   artist:"森羅万象",
   BPM:"",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/20/185013",
   musicTime:"",
   chapter:"東方紅魔郷",
   Vscha:"パチュリー・ノーレッジ(Lv.5)",
@@ -107,7 +107,7 @@ var CmusicDB= [
   advancedArray:["5","","","","","","","","",""],
   expertArray:["8","","","","","","","","",""],
   masterArray:["11","","","","","","","","",""],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-K_TTGP8eVI0/W6NqMf38Z2I/AAAAAAAAA0Y/ZkWYTMb1XQ46yCDJBSo6I7zDBr5ehGj_gCE0YBhgL/s1024/438de0732f290c34.png" itemprop="image">'
 },
 {
   musicName: "四次元跳躍機関",
@@ -115,7 +115,7 @@ var CmusicDB= [
   CollaborationName:"東方紅魔郷",
   artist:"koutaq",
   BPM:"",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/20/185107",
   musicTime:"",
   chapter:"東方紅魔郷",
   Vscha:"十六夜咲夜(Lv.5)",
@@ -125,7 +125,7 @@ var CmusicDB= [
   advancedArray:["5","","","","","","","","",""],
   expertArray:["8","","","","","","","","",""],
   masterArray:["12","","","","","","","","",""],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-TLFIZLSHZOc/W6NqMfExPOI/AAAAAAAAA0Y/4Jh92RLcGW0ZtUAvkB__z7KXcN5BZ5J4gCE0YBhgL/s1024/ef144fba3040de3f.png" itemprop="image">'
 },
 {
   musicName: "れみりあ☆デスティニー",
@@ -143,7 +143,7 @@ var CmusicDB= [
   advancedArray:["6","","","","","","","","",""],
   expertArray:["9","","","","","","","","",""],
   masterArray:["12","","","","","","","","",""],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-sCP95TK_7tg/W6NqMZXwN4I/AAAAAAAAA0Y/IrAEP4gaS28LscuJ3bQJOeosCH3u22E5QCE0YBhgL/s1024/5a76484b62e2bfdf.png" itemprop="image">'
 },
 {
   musicName: "sweet little sister",
@@ -151,7 +151,7 @@ var CmusicDB= [
   CollaborationName:"東方紅魔郷",
   artist:"Silver Forest",
   BPM:"",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/20/185351",
   musicTime:"",
   chapter:"東方紅魔郷",
   Vscha:"フランドール・スカーレット(Lv.8)",
@@ -161,7 +161,7 @@ var CmusicDB= [
   advancedArray:["6","","","","","","","","",""],
   expertArray:["9","","","","","","","","",""],
   masterArray:["12+","","","","","","","","",""],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-7Enq84dTJYI/W6NqMTbm9rI/AAAAAAAAA0Y/l4w-R3cBLbU3BB37gMLh6GQjoGbM1NTlwCE0YBhgL/s1024/129383f2f91b733b.png" itemprop="image">'
 }
 ];
 
