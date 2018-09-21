@@ -24,7 +24,7 @@ $(function get_musicData() {
         dataType: 'html',
         success: function(data) {
           $(data).find('.music_label').each(function(){
-            console.log( $(".music_label td").text() );
+            console.log( $(".score_table tr td").text() );
           });
         }
     });
