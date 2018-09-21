@@ -6,6 +6,7 @@ var playerData = {
   player_ratingMax:"",
   player_battlePoint:""
   };
+var musicData_master=[];
 
 $(function(){
   playerData.player_name=$('.name_block span').text();
@@ -24,9 +25,9 @@ $(function get_musicData() {
         dataType: 'html',
         success: function(data) {
           $(data).find('.music_label').each(function(){
-            console.log( $(".score_table").text()+$(this).text() );
+            musicData_master.push($(this).text());
           });
         }
     });
 });
-
+console.log(musicData_master);
