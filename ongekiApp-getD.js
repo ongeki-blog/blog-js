@@ -6,7 +6,8 @@ var playerData = {
   player_ratingMax:"",
   player_battlePoint:""
   };
-var musicData_basic=[],musicData_advanse=[],musicData_expert=[],musicData_master=[],musicData_lunatic=[];//name over BHS THS
+var musicName=[];
+var musicData_basic=[],musicData_advanse=[],musicData_expert=[],musicData_master=[],musicData_lunatic=[];// over BHS THS
 var player_frend=[];
 
 $(function(){
@@ -26,10 +27,12 @@ $(function get_musicData() {
         dataType: 'html',
         success: function(data) {
           $(data).find('.music_label').each(function(){
-            musicData_master.push($(this).text());
-            console.log($(this).text());
+            musicName.push($(this).text());
           });
-          console.log(musicData_master);
+          if((data).find('form table:eq(0)').length)){
+         console.log(11111);
+          }
+          console.log(musicName);
         }
     });
 });
