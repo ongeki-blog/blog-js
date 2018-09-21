@@ -6,7 +6,8 @@ var playerData = {
   player_ratingMax:"",
   player_battlePoint:""
   };
-var musicData_master=[];
+var musicData_basic=[],musicData_advanse=[],musicData_expert=[],musicData_master=[],musicData_lunatic=[];
+var 
 
 $(function(){
   playerData.player_name=$('.name_block span').text();
@@ -28,7 +29,8 @@ $(function get_musicData() {
             musicData_master.push($(this).text());
             console.log($(this).text());
           });
+          console.log(musicData_master);
         }
     });
 });
-console.log(musicData_master);
+
