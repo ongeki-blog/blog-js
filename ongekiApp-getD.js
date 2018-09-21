@@ -26,6 +26,7 @@ $(function get_musicData() {
         success: function(data) {
           $(data).find('.music_label').each(function(){
             musicData_master.push($(this).text());
+            console.log($(this).text());
           });
         }
     });
