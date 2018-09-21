@@ -6,8 +6,8 @@ var playerData = {
   player_ratingMax:"",
   player_battlePoint:""
   };
-var musicData_basic=[],musicData_advanse=[],musicData_expert=[],musicData_master=[],musicData_lunatic=[];
-var 
+var musicData_basic=[],musicData_advanse=[],musicData_expert=[],musicData_master=[],musicData_lunatic=[];//name over BHS THS
+var player_frend=[];
 
 $(function(){
   playerData.player_name=$('.name_block span').text();
