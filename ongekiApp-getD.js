@@ -16,15 +16,16 @@ $(function(){
   console.log(playerData);
 
 });
+//getMusic push
 $(function get_musicData() {
     $.ajax({
         type: 'GET',
         url: 'https://ongeki-net.com/ongeki-mobile/record/musicGenre/search/?genre=99&diff=3',
         dataType: 'html',
         success: function(data) {
-            $(data).find('.music_label').each(function(){
-        console.log( $(this).text() );  // 'foo', 'bar'と表示
-    });
+          $(data).find('.music_label').each(function(){
+            console.log( $(this td).text() );
+          });
         }
     });
 });
