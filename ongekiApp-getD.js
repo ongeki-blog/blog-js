@@ -38,7 +38,9 @@ $(function get_musicData() {
               });
             }else{
               console.log(0);
-              var simplicityArray =["","",""];
+              simplicityArray.push("0");
+              simplicityArray.push("0");
+              simplicityArray.push("0");
             }
                musicName.push(simplicityArray);
           });
