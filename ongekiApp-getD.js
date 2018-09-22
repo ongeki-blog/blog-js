@@ -32,7 +32,7 @@ $(function get_musicData() {
           if($(data).find('form:eq(0) table').length){
          console.log(11111);
           }
-          $(data).find('form table').each(function(){
+          $(data).find('.score_table').each(function(){
             musicName.push($(this).text());
           });
           console.log(musicName);
