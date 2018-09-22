@@ -41,7 +41,7 @@ $(function get_musicData() {
               simplicityArray.push("0");
             }
             $(form).find('.music_score_icon_area').each(function(){
-              console.log($(this).text());
+              console.log($(this).html());
             });
                musicName.push(simplicityArray);
           });
