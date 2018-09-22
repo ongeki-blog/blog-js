@@ -40,8 +40,8 @@ $(function get_musicData() {
               simplicityArray.push("0");
               simplicityArray.push("0");
             }
-            $(form).find('.music_score_icon_area').each(function(){
-              console.log($(this).html());
+            $(form).find('.music_score_icon_area').children('img').each(function(){
+              console.log($(this).attr('src'));
             });
                musicName.push(simplicityArray);
           });
