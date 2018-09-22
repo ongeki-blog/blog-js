@@ -26,12 +26,7 @@ $(function get_musicData() {
         url: 'https://ongeki-net.com/ongeki-mobile/record/musicGenre/search/?genre=99&diff=3',
         dataType: 'html',
         success: function(data) {
-          $(data).find('.music_label').each(function(){
-            musicName.push($(this).text());
-          });
-          if($(data).find('form:eq(0) table').length){
-         console.log(11111);
-          }
+
           $(data).find('.score_table').each(function(){
             musicName.push($(this).text());
           });
