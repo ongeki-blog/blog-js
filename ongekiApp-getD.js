@@ -32,15 +32,16 @@ $(function get_musicData() {
               simplicityArray.push($(this).text().replace('”', "").replace('“', ""));
             });
             if($(form).find('.score_table').length){
-              console.log(1);
               $(form).find('.score_table .score_value').each(function(){
                 simplicityArray.push($(this).text());
               });
             }else{
-              console.log(0);
               simplicityArray.push("0");
               simplicityArray.push("0");
               simplicityArray.push("0");
+            }
+            $(form).find('.music_score_icon_area').each(function(){
+              console.log($(this).text());
             }
                musicName.push(simplicityArray);
           });
