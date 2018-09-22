@@ -29,7 +29,7 @@ $(function get_musicData() {
           $(data).find('form').each(function(ippon,form){
             var simplicityArray =[];
             $(form).find('.music_label').each(function(){
-              simplicityArray.push($(this).text().replace('”', ""));
+              simplicityArray.push($(this).text().replace('”', "").replace('“', ""));
             });
             if($(form).find('.score_table').length){
               console.log(1);
