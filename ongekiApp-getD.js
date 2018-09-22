@@ -29,7 +29,7 @@ $(function get_musicData() {
           $(data).find('.music_label').each(function(){
             musicName.push($(this).text());
           });
-          if((data).find('form table:eq(0)').length)){
+          if((data).find('form table:eq(0)').length){
          console.log(11111);
           }
           console.log(musicName);
