@@ -31,7 +31,7 @@ $(function get_musicData() {
               console.log(1);
               $(form).find('.score_table .score_value').each(function(){
                 console.log($(this).text());
-              }
+              });
             }else{
               console.log(0);
             }
