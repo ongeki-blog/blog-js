@@ -27,14 +27,8 @@ $(function get_musicData() {
         dataType: 'html',
         success: function(data) {
           $(data).find('form').each(function(i,form){
-            if($(form).find('.score_table').length){
+            console.log($(form).find('input').val());
               console.log(1);
-              $(form).find('.score_table .score_value').each(function(){
-                console.log($(this).text());
-              });
-            }else{
-              console.log(0);
-            }
                musicName.push($(this).text());
           });
           console.log(musicName);
