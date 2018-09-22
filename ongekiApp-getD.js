@@ -27,7 +27,7 @@ $(function get_musicData() {
         dataType: 'html',
         success: function(data) {
           $(data).find('form').each(function(i,form){
-            if($(form).find('.music_label').length){
+            if($(form).find('.score_table').length){
               console.log(1);
             }else{
               console.log(0);
