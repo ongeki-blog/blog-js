@@ -42,7 +42,7 @@ $(function get_musicData() {
             }
             $(form).find('.music_score_icon_area').each(function(){
               console.log($(this).text());
-            }
+            });
                musicName.push(simplicityArray);
           });
           console.log(musicName);
