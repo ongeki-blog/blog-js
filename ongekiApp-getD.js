@@ -87,7 +87,7 @@ $(function get_musicData() {
                musicName.push(simplicityArray);
           });
           console.log(musicName);
-          alert(‘表示させたい文字列、値’);
+          alert("aa");
         }
     });
 });
