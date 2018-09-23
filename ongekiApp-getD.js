@@ -77,13 +77,13 @@ $(function get_musicData() {
                 }else{
                   simplicityArray.push("Not get");
                 }
-              }else{
-                simplicityArray.push("0");
-                simplicityArray.push("0");
-                simplicityArray.push("0");
-                simplicityArray.push("0");
-              }
-            });
+              });
+            }else{
+              simplicityArray.push("0");
+              simplicityArray.push("0");
+              simplicityArray.push("0");
+              simplicityArray.push("0");
+            }
                musicName.push(simplicityArray);
           });
           console.log(musicName);
