@@ -87,7 +87,7 @@ $(function get_musicData() {
                musicName.push(simplicityArray);
           });
           console.log(musicName);
-          $('.t_r').html(10345);
+          $('.t_r:eq(2)').html(10345);
           
         }
     });
