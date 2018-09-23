@@ -40,8 +40,49 @@ $(function get_musicData() {
               simplicityArray.push("0");
               simplicityArray.push("0");
             }
-            $(form).find('.music_score_icon_area').children('img').each(function(){
-              console.log($(this).attr('src'));
+            if($(form).find('.music_score_icon_area').children('img').length){
+              $(form).find('.music_score_icon_area').children('img').each(function(){
+                if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_tr_a.png?ver=1.01"){
+                  simplicityArray.push("A");
+                }else if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_tr_aa.png?ver=1.01"){
+                  simplicityArray.push("AA");
+                }else if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_tr_aaa.png?ver=1.01"){
+                  simplicityArray.push("AAA");
+                }else if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_tr_bbb.png?ver=1.01"){
+                  simplicityArray.push("BBB");
+                }else if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_tr_s.png?ver=1.01"){
+                  simplicityArray.push("S");
+                }else if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_tr_ss.png?ver=1.01"){
+                  simplicityArray.push("SS");
+                }else if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_tr_sss.png?ver=1.01"){
+                  simplicityArray.push("SSS");
+                }else if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_tr_sssplus.png?ver=1.01"){
+                  simplicityArray.push("SSS+");
+                }else if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_fc.png?ver=1.01"){
+                  simplicityArray.push("FC");
+                }else if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_fb.png?ver=1.01"){
+                  simplicityArray.push("FB");
+                }else if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_ab.png?ver=1.01"){
+                  simplicityArray.push("AB");
+                }else if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_br_usually.png?ver=1.01"){
+                  simplicityArray.push("可");
+                }else if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_br_unbelievable.png?ver=1.01"){
+                  simplicityArray.push("極");
+                }else if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_br_great.png?ver=1.01"){
+                  simplicityArray.push("優");
+                }else if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_br_good.png?ver=1.01"){
+                  simplicityArray.push("良");
+                }else if($(this).attr('src')=="https://ongeki-net.com/ongeki-mobile/img/music_icon_br_excellent.png?ver=1.01"){
+                  simplicityArray.push("秀");                  
+                }else{
+                  simplicityArray.push("Not get");
+                }
+              }else{
+                simplicityArray.push("0");
+                simplicityArray.push("0");
+                simplicityArray.push("0");
+                simplicityArray.push("0");
+              }
             });
                musicName.push(simplicityArray);
           });
