@@ -91,4 +91,4 @@ $(function get_musicData() {
         }
     });
 });
-alert("aa");
+window.confirm('スマートフォン向けサイトに移動しますか？')
