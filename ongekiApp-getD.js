@@ -87,7 +87,7 @@ $(function get_musicData() {
                musicName.push(simplicityArray);
           });
           console.log(musicName);
-          $('.t_r:eq(2)').html(10345+'<img src="https://ongeki-net.com/ongeki-mobile/img/jewel/7b14a78dcd861042.png" class="f_r w_20 v_m p_3"/>');
+          $('.t_r:eq(1)').html(10345+'<img src="https://ongeki-net.com/ongeki-mobile/img/jewel/7b14a78dcd861042.png" class="f_r w_20 v_m p_3"/>');
           
         }
     });
