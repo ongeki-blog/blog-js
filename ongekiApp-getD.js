@@ -87,7 +87,8 @@ $(function get_musicData() {
                musicName.push(simplicityArray);
           });
           console.log(musicName);
-          alert("aa");
+          
         }
     });
 });
+alert("aa");
