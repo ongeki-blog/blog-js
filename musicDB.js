@@ -5,7 +5,7 @@ var musicDB=[
   class:"1-01-01",
   artist: "曲：宮崎誠 歌：星咲 あかり(CV:赤尾 ひかる)",
   BPM:"182",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/15/162438",
   musicTime:"2:23",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"星咲あかり(Lv.1)",
@@ -23,7 +23,7 @@ var musicDB=[
   class:"1-01-01",
   artist: "曲：kz(livetune) 歌：オンゲキシューターズ",
   BPM:"135",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/25/062657",
   musicTime:"",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"星咲あかり(Lv.2)",
@@ -33,7 +33,7 @@ var musicDB=[
   advancedArray:["5","432","","","","","","38","",""],
   expertArray:["8+","832","","","","","","80","","ものくろっく"],
   masterArray:["11","819","","","","","","95","11.0","ロシェ＠ペンギン"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-fkJ9bGJEPqY/W6lWGIrdaCI/AAAAAAAAA18/I-kN_H8BNw4MbyCwMzKGka_w6JEV4hy0QCE0YBhgL/s1024/1532602771.jpg" itemprop="image">'
 },
 {
   musicName: "君の知らない物語",
@@ -41,7 +41,7 @@ var musicDB=[
   class:"1-01-01",
   artist: "supercell 「化物語」",
   BPM:"165",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/25/070121",
   musicTime:"",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"星咲あかり(Lv.1)",
@@ -51,7 +51,7 @@ var musicDB=[
   advancedArray:["5","375","","","","","","44","",""],
   expertArray:["7+","394","","","","","","100","","ロシェ＠ペンギン＆ものくろっく"],
   masterArray:["11+","579","","","","","","58","10.4","ロシェ＠ペンギン"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-wx8IlbqTD-U/W6lWJGqrsWI/AAAAAAAAA2g/te_8MDFWAXoXxukYWwnXmCaCJ7Di4r-FQCE0YBhgL/s1024/1532602905.jpg" itemprop="image">'
 },
 {
   musicName: "シュガーソングとビターステップ",
