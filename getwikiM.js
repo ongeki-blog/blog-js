@@ -9,6 +9,6 @@ $(function get_musicData() {
           $(data).find('td').each(function(ippon,form){
           console.log($(this).text());
           }
-        }
+        });
     });
 });
