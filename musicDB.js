@@ -123,7 +123,7 @@ var musicDB=[
   advancedArray:["6","576","","","","","","133","",""],
   expertArray:["9","685","","","","","","130","","ロシェ＠ペンギン＆ものくろっく"],
   masterArray:["12","1,170","","","","","","72","12.4","ものくろっく"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-quq2bOf_ztg/W6mAHEOhg6I/AAAAAAAAA3c/hsyM51WVL-cLipOZX9L2OPgNLJBHa7RkQCE0YBhgL/s1024/1532603631.jpg" itemprop="image">'
 },
 {
   musicName: "",
