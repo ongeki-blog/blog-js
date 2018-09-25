@@ -59,7 +59,7 @@ var musicDB=[
   class:"1-01-01",
   artist: "UNISON SQUARE GARDEN",
   BPM:"132",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/25/072754",
   musicTime:"",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"星咲あかり(Lv.1)",
@@ -69,7 +69,7 @@ var musicDB=[
   advancedArray:["5","376","","","","","","48","",""],
   expertArray:["7+","526","","","","","","123","","ロシェ＠ペンギン＆ものくろっく"],
   masterArray:["11+","976","","","","","","58","11.7","ものくろっく"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-psMycrtdzNc/W6lWJHANwNI/AAAAAAAAA2g/-qcw3UoKTpswKFA8WP48CPkmPPewxh27QCE0YBhgL/s1024/1532603080.jpg" itemprop="image">'
 },
 {
   musicName: "檄!帝国華撃団",
@@ -77,7 +77,7 @@ var musicDB=[
   class:"1-01-01",
   artist: "真宮寺さくら（横山智佐）＆帝国歌劇団",
   BPM:"143",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/25/092208",
   musicTime:"",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"星咲あかり(Lv.1)",
@@ -87,7 +87,7 @@ var musicDB=[
   advancedArray:["5","569","","","","","","55","",""],
   expertArray:["7+","633","","","","","","185","","ロシェ＠ペンギン＆ものくろっく"],
   masterArray:["11","817 ","","","","","","120","11.3","ロシェ＠ペンギン"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-wNKfLz7bg9E/W6lWHdILNpI/AAAAAAAAA2g/Ro01GJS0OZg-5sQtC7zkXI6GwUB_fiN-gCE0YBhgL/s1024/1532603188-2.jpg" itemprop="image">'
 },
 {
   musicName: "回レ！雪月花",
@@ -95,7 +95,7 @@ var musicDB=[
   class:"1-01-01",
   artist: "歌組雪月花 夜々(原田 ひとみ)いろり(茅野 愛衣)小紫(小倉 唯) ",
   BPM:"160",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/09/25/092830",
   musicTime:"",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"星咲あかり(Lv.1)",
@@ -105,7 +105,7 @@ var musicDB=[
   advancedArray:["6","436","","","","","","66","",""],
   expertArray:["9","566","","","","","","126","","ロシェ＠ペンギン＆rioN"],
   masterArray:["12","1,087","","","","","","116","12.2","ロシェ回ペンギン"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-n0f44HUuC34/W6mAD26z7dI/AAAAAAAAA3I/AyH5cU-4Jb0ONPiMZcTjSzViiZeXrUB0gCE0YBhgL/s1024/1532603328.jpg" itemprop="image">'
 },
 {
   musicName: "ＧＯ！ＧＯ！ラブリズム♥",
