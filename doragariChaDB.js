@@ -32,6 +32,8 @@ skil2Detail:"15秒間【インフェルノモード】を発動。【インフ�
 exAbi:"クリティカル率+5%",
 exAbiDetail:"パーティ全員のクリティカル確率が5%アップする。",
 Abi:["疾風怒濤・弱体+15%","睡眠耐性+50%","ブレイク特攻+25%"],
+Rank:"S",
+reRank:"S",
 chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-iaFTJ7dHgrM/W67rkIpGvxI/AAAAAAAABWM/w0TNXp--uyUTYVY0emrh3dvjaAfwm-sugCE0YBhgL/s1024/IMG_1275.PNG" />',
 DchaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-UHCZuMecKrw/W67rkI0zoVI/AAAAAAAABWM/nbDvPd8o2rY3qTkUSoG3rf0R_OIGnvsFACE0YBhgL/s1024/IMG_1276.PNG" />',
 skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-C6c8XaCReCM/W67sMh-ALSI/AAAAAAAABWg/k9VTrqoVlSkC3UoU84VTrugBjDN1JrhPwCE0YBhgL/s1024/IMG_1270.PNG" />',
