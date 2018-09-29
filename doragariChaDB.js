@@ -1,6 +1,5 @@
 ChaDB=[
 {
-{
 Name:"ミコト",
 Name2:"ブリリアントジーニアス 光輝の天才",
 attribute:"火",
@@ -21,7 +20,7 @@ exSrc:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-KOKBLmiy
 Abi:["疾風怒濤・弱体+15%","睡眠耐性+50%","ブレイク特攻+25%"],
 AbiSrc:['<img class="magnifiable" src="https://lh3.googleusercontent.com/-_Szs-m1yWUw/W68Xeq4tFpI/AAAAAAAABXE/GdpBZGeLbTAFlEwm7JZfV_gL1DmTb63DwCE0YBhgL/s1024/IMG_1277.PNG" width="96"/>','<img class="magnifiable" src="https://lh3.googleusercontent.com/-GChOaYNmMMY/W68XemVtU_I/AAAAAAAABXE/5LWAWcmpl20SP6OjUm-kXrcnTDFI-VeqACE0YBhgL/s1024/IMG_1278.PNG" width="96"/>','<img class="magnifiable" src="https://lh3.googleusercontent.com/-9-CGLJCpgS8/W68Xeux3bqI/AAAAAAAABXE/BQ2dvI6i3yQmWZ1helFugW_xcAwmAjbNACE0YBhgL/s1024/IMG_1279.PNG" width="96"/>'],
 AbiD:['ヒット数15以上で、敵にデバフを与える確率が15%アップする','「睡眠状態」になる確率が50%ダウンする','ブレイク中の敵へ与えるダメージが25%アップする'],
-sortPicture:'',
+sortPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-ShaTpwXwzJI/W69EPROLgoI/AAAAAAAABY0/dLDvGekgItkCcjCbvvaobB4diRZyv9I2wCE0YBhgL/s1024/IMG_1285.PNG" width="64"/>',
 chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-iaFTJ7dHgrM/W67rkIpGvxI/AAAAAAAABWM/w0TNXp--uyUTYVY0emrh3dvjaAfwm-sugCE0YBhgL/s1024/IMG_1275.PNG" />',
 DchaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-UHCZuMecKrw/W67rkI0zoVI/AAAAAAAABWM/nbDvPd8o2rY3qTkUSoG3rf0R_OIGnvsFACE0YBhgL/s1024/IMG_1276.PNG" />',
 skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-C6c8XaCReCM/W67sMh-ALSI/AAAAAAAABWg/k9VTrqoVlSkC3UoU84VTrugBjDN1JrhPwCE0YBhgL/s1024/IMG_1270.PNG" width="96"/>',
