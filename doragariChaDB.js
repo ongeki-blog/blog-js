@@ -258,7 +258,7 @@ chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-6tk
 DchaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-UzAvo1e8aEE/W7FSwnoIS3I/AAAAAAAABpY/QuKFt--Dcvkh9HawEgOGMTy5f6SCPj2iwCE0YBhgL/s1024/IMG_1395.PNG" />',
 skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-KukiPf1cMRs/W7FTqxeq4GI/AAAAAAAABps/zRbbPnaBTUAwGEkVOqjfaPgBYq5RPmGvgCE0YBhgL/s1024/IMG_1396.PNG" width="96"/>',
 skil2Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-OvtLLRg4tJE/W6-ltSwc2cI/AAAAAAAABbo/puMecJViVhQknVaYxAWKu_sWyEVC6oq4gCE0YBhgL/s1024/IMG_1304.png" width="96"/>',
-URL:''
+URL:'https://www.dragaliguide.com/entry/2018/10/01/【ドラガリアロスト】ネファリエの評価とアビリ'
 }
 ,
     {
