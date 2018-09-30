@@ -229,7 +229,7 @@ chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-7yw
 DchaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-6Se6R3eVfbA/W7EcIg4ZZ0I/AAAAAAAABmQ/lkp5LPMhFNs_spOgXuj2Nxd94H-GSsdewCE0YBhgL/s1024/IMG_1374.png" />',
 skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-U8P3MhUCA-I/W7Ec08fFxHI/AAAAAAAABmo/KACIjOTe2ZELi_EckHMKLXAoByg7-zQGQCE0YBhgL/s1024/IMG_1375.png" width="96"/>',
 skil2Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-7lwRH7K6qKQ/W7Ec00d2qtI/AAAAAAAABmo/X2vxcagRdKk8R_MBxpuXrDw79ygKyG0hACE0YBhgL/s1024/IMG_1376.png" width="96"/>',
-URL:''
+URL:'https://www.dragaliguide.com/entry/2018/10/01/【ドラガリアロスト】ヒルデガルドの評価とアビ'
 },
     {
 Name:"ネファリエ",
@@ -266,8 +266,8 @@ Name:"準備中",
 Name2:"アメツチマスター 森羅伴生",
 get:"可",
 attribute:"風",
-rare:"5",
-date:"2018.9.27",
+rare:"-1",
+date:"2018.",
 type:"攻撃",
 ste:["sen","HP","kougei"],
 job:"刀",
