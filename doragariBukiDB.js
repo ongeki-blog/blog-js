@@ -57,7 +57,7 @@ BukiDB=[
   chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-amit9QVh-uI/W7Kebh8ByuI/AAAAAAAABts/z5Z7ARNIaXgz_XIjerHGIcE1x7bfvUpgwCE0YBhgL/s1024/IMG_1195-3.PNG" itemprop="image">',
   skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-uoI1HYTafmk/W6-PrgIh46I/AAAAAAAABaw/3zn4-wHvl60Os7r-wJqw2TQq5Lmm2eCBQCE0YBhgL/s1024/IMG_1295.PNG" width="96"/>',
   skil2Picture:' width="96"/>',
-  URL:''
+  URL:'https://www.dragaliguide.com/entry/2018/10/02/【ドラガリアロスト】エンチャントソードの評価'
 },
 {
   Name:"ハードヒートソード",
@@ -77,7 +77,7 @@ BukiDB=[
   chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/--LUdcGRKHCk/W7KegMWL9ZI/AAAAAAAABt4/K4NM9PjSgq04hvKy1eT5IdPZa6t15dmbQCE0YBhgL/s1024/IMG_1195-3.PNG" itemprop="image">',
   skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-L43ju-xAhm8/W7EZNnkSdII/AAAAAAAABl4/ZOFJzjWrkTEwpUZWlTv-C3wFEIhQjtm7gCE0YBhgL/s1024/IMG_1326.png" width="96"/>',
   skil2Picture:' width="96"/>',
-  URL:''
+  URL:'https://www.dragaliguide.com/entry/2018/10/02/【ドラガリアロスト】ハードヒートソードの評価'
 },
 {
   Name:"フェザーソード",
@@ -97,7 +97,7 @@ BukiDB=[
   chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-pDflaiXsEJo/W7KgzEqH2sI/AAAAAAAABuQ/QnEwPc2prIQuRUSGZdevQ-lVdUyH14EQACE0YBhgL/s1024/IMG_1195-3.PNG" />',
   skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-L43ju-xAhm8/W7EZNnkSdII/AAAAAAAABl4/ZOFJzjWrkTEwpUZWlTv-C3wFEIhQjtm7gCE0YBhgL/s1024/IMG_1326.png" width="96"/>',
   skil2Picture:' width="96"/>',
-  URL:''
+  URL:'https://www.dragaliguide.com/entry/2018/10/02/【ドラガリアロスト】フェザーソードの評価とス'
 },
 {
   Name:"ブラッドソード",
@@ -117,7 +117,7 @@ BukiDB=[
   chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-0QqLaeCzHXs/W7Kg4Je2JGI/AAAAAAAABuc/4bNwNqtSKcgFMbUtbF2jdFgjSEplpSekgCE0YBhgL/s1024/IMG_1195-3.PNG" />',
   skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-L43ju-xAhm8/W7EZNnkSdII/AAAAAAAABl4/ZOFJzjWrkTEwpUZWlTv-C3wFEIhQjtm7gCE0YBhgL/s1024/IMG_1326.png" width="96"/>',
   skil2Picture:' width="96"/>',
-  URL:''
+  URL:'https://www.dragaliguide.com/entry/2018/10/02/【ドラガリアロスト】ブラッドソードの評価とス'
 },
 {
   Name:"レインソード",
@@ -137,7 +137,7 @@ BukiDB=[
   chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-rGCVLELWX4k/W7Kg9otw2WI/AAAAAAAABuo/2bQB0CYMUasTOCBOpIOTieqW6s2efpP9wCE0YBhgL/s1024/IMG_1195-3.PNG" />',
   skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-uoI1HYTafmk/W6-PrgIh46I/AAAAAAAABaw/3zn4-wHvl60Os7r-wJqw2TQq5Lmm2eCBQCE0YBhgL/s1024/IMG_1295.PNG" width="96"/>',
   skil2Picture:' width="96"/>',
-  URL:''
+  URL:'https://www.dragaliguide.com/entry/2018/10/02/【ドラガリアロスト】レインソードの評価とステ_1'
 },
 {
   Name:"グラスソード",
@@ -157,7 +157,7 @@ BukiDB=[
   chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-xpydR562XCE/W7KhDLrkW_I/AAAAAAAABu0/I4ZyGRBKRRMiK7sUu0QE-EUPf2rcLxnOwCE0YBhgL/s1024/IMG_1195-3.PNG" />',
   skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-uoI1HYTafmk/W6-PrgIh46I/AAAAAAAABaw/3zn4-wHvl60Os7r-wJqw2TQq5Lmm2eCBQCE0YBhgL/s1024/IMG_1295.PNG" width="96"/>',
   skil2Picture:' width="96"/>',
-  URL:''
+  URL:'https://www.dragaliguide.com/entry/2018/10/02/【ドラガリアロスト】グラスソードの評価とステ'
 },
 {
   Name:"フェザーソード",
