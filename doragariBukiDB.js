@@ -16,7 +16,7 @@ BukiDB=[
   chaPicture:'',
   skil1Picture:' width="96"/>',
   skil2Picture:' width="96"/>',
-  URL:''
+  URL:'https://www.dragaliguide.com/entry/2018/10/01/【ドラガリアロスト】ナイツソードの評価とステ'
 },
   {
   Name:"ワイドソード",
