@@ -1,4 +1,4 @@
-ChaDB=[
+BukiDB=[
 {
   Name:"ナイツソード",
   get:"可",
