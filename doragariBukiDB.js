@@ -217,7 +217,7 @@ BukiDB=[
   chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-adR7Dl-X6kc/W7M1o4aI7oI/AAAAAAAAB2E/GNAohgxYpZkw9mPb8EQ80TQTc8ar3uzugCE0YBhgL/s1024/IMG_1195-3.PNG" />',
   skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-C6c8XaCReCM/W67sMh-ALSI/AAAAAAAABWg/k9VTrqoVlSkC3UoU84VTrugBjDN1JrhPwCE0YBhgL/s1024/IMG_1270.PNG" width="96"/>',
   skil2Picture:' width="96"/>',
-  URL:''
+  URL:'https://www.dragaliguide.com/entry/2018/10/02/【ドラガリアロスト】ロードシャムシールの評価'
 },
 {
   Name:"バルカレード",
@@ -237,7 +237,7 @@ BukiDB=[
   chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-o4zrXCf-Ilg/W7M7feA83rI/AAAAAAAAB38/mAz_2nxJfj0ObfAHWvoc1c2gP_1KaCZkACE0YBhgL/s1024/IMG_1195-3.PNG" />',
   skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-ZXWK-VAxvs0/W6-Prp8fm3I/AAAAAAAABaw/3I6lv-FqIa8zv7H92_NX9sL1A6Yb-SOFQCE0YBhgL/s1024/IMG_1294.PNG" width="96"/>',
   skil2Picture:' width="96"/>',
-  URL:''
+  URL:'https://www.dragaliguide.com/entry/2018/10/02/【ドラガリアロスト】バルカレードの評価とステ'
 },
 {
   Name:"花蝶村正",
@@ -257,7 +257,7 @@ BukiDB=[
   chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-dogvziTThLg/W7M7hyn7VII/AAAAAAAAB38/u3IvuxVrRss5S4f_z3yY_20BWOj4JxrGQCE0YBhgL/s1024/IMG_1195-3.PNG" />',
   skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-ZXWK-VAxvs0/W6-Prp8fm3I/AAAAAAAABaw/3I6lv-FqIa8zv7H92_NX9sL1A6Yb-SOFQCE0YBhgL/s1024/IMG_1294.PNG" width="96"/>',
   skil2Picture:' width="96"/>',
-  URL:''
+  URL:'https://www.dragaliguide.com/entry/2018/10/02/【ドラガリアロスト】バルカレードの評価とステ'
 },
 {
   Name:"竜将刀",
@@ -277,7 +277,7 @@ BukiDB=[
   chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-fstEZd_BHEs/W7NDcDPuhlI/AAAAAAAAB44/nXNQQABjxmccri31YzI-UysOHO7s4sJ3QCE0YBhgL/s1024/IMG_1195-3.PNG" />',
   skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-C6c8XaCReCM/W67sMh-ALSI/AAAAAAAABWg/k9VTrqoVlSkC3UoU84VTrugBjDN1JrhPwCE0YBhgL/s1024/IMG_1270.PNG" width="96"/>',
   skil2Picture:' width="96"/>',
-  URL:''
+  URL:'https://www.dragaliguide.com/entry/2018/10/02/【ドラガリアロスト】竜将刀の評価とステータス'
 },
 {
   Name:"シャンゼリアブレード",
@@ -297,7 +297,7 @@ BukiDB=[
   chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-T2P_FTscVYE/W7NDilJAwbI/AAAAAAAAB5A/gkDMA2IxoJ0IAc7S8fumYqffaCQGFkBxgCE0YBhgL/s1024/IMG_1195-3.PNG" />',
   skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-C6c8XaCReCM/W67sMh-ALSI/AAAAAAAABWg/k9VTrqoVlSkC3UoU84VTrugBjDN1JrhPwCE0YBhgL/s1024/IMG_1270.PNG" width="96"/>',
   skil2Picture:' width="96"/>',
-  URL:''
+  URL:'https://www.dragaliguide.com/entry/2018/10/02/【ドラガリアロスト】シャンゼリアブレードの評'
 },
 {
   Name:"妖刀血雨",
@@ -317,7 +317,7 @@ BukiDB=[
   chaPicture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-NmAEJZNEBdc/W7NDe3_6_DI/AAAAAAAAB44/dbH7xcvIM7gKcAKHnNLvSat1NgzV-4IXgCE0YBhgL/s1024/IMG_1195-3.PNG" />',
   skil1Picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-C6c8XaCReCM/W67sMh-ALSI/AAAAAAAABWg/k9VTrqoVlSkC3UoU84VTrugBjDN1JrhPwCE0YBhgL/s1024/IMG_1270.PNG" width="96"/>',
   skil2Picture:' width="96"/>',
-  URL:''
+  URL:'https://www.dragaliguide.com/entry/2018/10/02/【ドラガリアロスト】妖刀血雨の評価とステータ'
 },
 {
   Name:"",
