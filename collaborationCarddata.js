@@ -314,7 +314,7 @@ var CcardDB= [
 {
   number:"1.00-E-0030",
   cardname:"[東方紅魔郷]パチェリー・ノーレッジ",
-  name:"紅 美鈴",
+  name:"パチェリー・ノーレッジ",
   CollaborationName:"東方紅魔郷",
   URL:"https://www.ongeki-blog.com/entry/2018/09/20/151900",
   rare:"R",
@@ -338,7 +338,7 @@ var CcardDB= [
 {
   number:"1.00-E-0031",
   cardname:"[動かない大図書館]パチェリー・ノーレッジ",
-  name:"紅 美鈴",
+  name:"パチェリー・ノーレッジ",
   CollaborationName:"東方紅魔郷",
   URL:"https://www.ongeki-blog.com/entry/2018/09/20/151918",
   rare:"SR",
