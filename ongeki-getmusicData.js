@@ -15,8 +15,9 @@ function get_musicData(URL) {
             });
           });
          }
-          console.log(simplicityArray);
+          
     });
+  console.log(simplicityArray);
 }
 $(function(){
 get_musicData("http://ongeki-club.bingoworlds.com/music/all");
