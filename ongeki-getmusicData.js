@@ -2,11 +2,11 @@
 var simplicityArray=[];
 var simplicityArrayq=[];
 $(function(){
-  $('a').each(function(ippon,form){
-    simplicityArray.push($(this).attr('href'));
+  $('th').each(function(ippon,form){
+    simplicityArray.push($(this).text().replace(/↵/g, ''));
   });
   $('td').each(function(ippon,form){
-    simplicityArrayq.push($(this).text());
+    simplicityArrayq.push($(this).text().replace(/↵/g, ''));
   });
   console.log(simplicityArray);
   console.log(simplicityArrayq);
