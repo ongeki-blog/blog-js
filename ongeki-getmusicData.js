@@ -1,11 +1,11 @@
 
 var simplicityArray=[];
 //getMusic push
-function get_musicData(URLs) {
+function get_musicData(urls) {
   var simplicityArray=[];
     $.ajax({
         type: 'GET',
-        url: URLs,
+        url: urls,
         dataType: 'html',
         success: function(data) {
           $(data).find('form').each(function(ippon,form){
