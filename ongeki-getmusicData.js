@@ -1,7 +1,8 @@
 
 var simplicityArray=[];
 //getMusic push
-function get_musicData(urls) {
+function get_musicData() {
+  var urls="http://ongeki-club.bingoworlds.com/music/all";
   var simplicityArray=[];
     $.ajax({
         type: 'GET',
@@ -19,6 +20,6 @@ function get_musicData(urls) {
   console.log(simplicityArray);
 }
 $(function(){
-get_musicData("http://ongeki-club.bingoworlds.com/music/all");
+get_musicData();
 });
 
