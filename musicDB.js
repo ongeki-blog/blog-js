@@ -255,7 +255,7 @@ var musicDB=[
   musicName: "This game",
   genre:"POPS&ANIME",
   class:"1-01-03",
-  artist: "三角 葵",
+  artist: "鈴木このみ「ノーゲーム・ノーライフ」",
   BPM:"147",
   URL:"",
   musicTime:"",
