@@ -55,7 +55,7 @@ var musicDB=[
 },
 {
   musicName: "シュガーソングとビターステップ",
-  genre:"",
+  genre:"POPS&ANIME",
   class:"1-01-01",
   artist: "UNISON SQUARE GARDEN",
   BPM:"132",
@@ -221,7 +221,7 @@ var musicDB=[
   class:"1-01-02",
   artist: "t+pazolite",
   BPM:"190",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/11/185740",
   musicTime:"",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"藤沢柚子(Lv.5)",
@@ -231,7 +231,7 @@ var musicDB=[
   advancedArray:["7","465","","","","","","76","",""],
   expertArray:["10","646","","","","","","87","10.2","ロシェ@ペンギン & ものくろっく"],
   masterArray:["13+","1,150","","","","","","54","13.8","ものくろっく vs Revo@LC"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-FUY7CJ9NfEU/W7yiHZQlkkI/AAAAAAAACIk/69IPPvjyaR8u0Vg3Na_2uJ9V8yiBnSf2ACE0YBhgL/s1024/image.png" itemprop="image">'
 },
 {
   musicName: "Zest of Blue",
