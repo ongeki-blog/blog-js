@@ -1,3 +1,4 @@
+var recent=["Perfect Shining!!","STARTLINER","君の知らない物語"]:
 var musicDB=[
 {
   musicName: "Perfect Shining!!",
