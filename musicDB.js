@@ -167,7 +167,7 @@ var musicDB=[
   class:"1-01-02",
   artist: "新庄 かなえ(CV:三森 すずこ) 「てーきゅう」",
   BPM:"160",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/11/012801",
   musicTime:"",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"藤沢柚子(Lv.1)",
@@ -177,7 +177,7 @@ var musicDB=[
   advancedArray:["6","423","","","","","","64","",""],
   expertArray:["8","701","","","","","","202","","ロシェ@ペンギン & ものくろっく"],
   masterArray:["12","1,020","","","","","","204","12.5","ロシェ＠ペンギン & rioN"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-BunohNpMBo4/W7ydz85oqxI/AAAAAAAACHk/UupxIEs-p5gCpK5Mfgfqb7J1f5A6b0AOQCE0YBhgL/s1024/image.png" itemprop="image">'
 },
   {
   musicName: "かくしん的☆めたまるふぉ～ぜっ!",
@@ -185,7 +185,7 @@ var musicDB=[
   class:"1-01-02",
   artist: "土間うまる [CV.田中あいみ]「干物妹！うまるちゃん」",
   BPM:"139",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/11/013311",
   musicTime:"",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"藤沢柚子(Lv.1)",
@@ -195,7 +195,7 @@ var musicDB=[
   advancedArray:["5","353","","","","","","34","",""],
   expertArray:["8","486","","","","","","124","","ロシェ@ペンギン & ものくろっく"],
   masterArray:["12","810","","","","","","100","12.5","食う寝る遊ぶロシェペンギン"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-9s7aoC8NrIo/W7yedB5q_-I/AAAAAAAACH0/5mNDgYRJ3Z0ShpsKsw5An0xPKyX5xO2YQCE0YBhgL/s1024/image.png" itemprop="image">'
 },
 {
   musicName: "脳漿炸裂ガール",
@@ -203,7 +203,7 @@ var musicDB=[
   class:"1-01-02",
   artist: "れるりり",
   BPM:"155",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/11/161416",
   musicTime:"",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"藤沢柚子(Lv.3)",
@@ -213,7 +213,7 @@ var musicDB=[
   advancedArray:["5","541","","","","","","59","",""],
   expertArray:["10","757","","","","","","119","","ものくろっく"],
   masterArray:["13","1,278","","","","","","69","13.1","現在使われてない犬"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-KAlbPJeUS44/W7yiGAI6q3I/AAAAAAAACIk/uWtujRFIVQsyPMHXhgASFzsz8KfihOMtQCE0YBhgL/s1024/image.png" itemprop="image">'
 },
 {
   musicName: "Oshama Scramble!",
