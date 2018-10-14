@@ -240,7 +240,7 @@ var musicDB=[
   class:"1-01-03",
   artist: "曲：上松範廉(Elements Garden) 歌：三角 葵(CV:春野 杏)",
   BPM:"144",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/15/024225",
   musicTime:"",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"三角 葵(Lv.1)",
@@ -250,7 +250,7 @@ var musicDB=[
   advancedArray:["7","386","","","","","","32","",""],
   expertArray:["9+","607","","","","","","89","","ロシェ@ペンギン"],
   masterArray:["11+","881","","","","","","77","11.9","Revo@LC"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-Iiq0veOuTnw/W7yiVfV8ZWI/AAAAAAAACIk/HyipbWxENZUdZ8unyb2-eKBQ0hpGFkopACE0YBhgL/s1024/image.png" itemprop="image">'
 },
 {
   musicName: "This game",
@@ -258,7 +258,7 @@ var musicDB=[
   class:"1-01-03",
   artist: "鈴木このみ「ノーゲーム・ノーライフ」",
   BPM:"147",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/15/024704",
   musicTime:"",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"三角 葵(Lv.1)",
@@ -268,7 +268,7 @@ var musicDB=[
   advancedArray:["6","332","","","","","","47","",""],
   expertArray:["8+","508","","","","","","162","","ロシェ＠ペンギン & ものくろっく"],
   masterArray:["11+","790","","","","","","113","11.7","ロシェ❤ペンギン"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-NnX0dbCYuc8/W7ykkqWWhYI/AAAAAAAACJU/G2O4wb29f7kbkbs8MjDEoosikebypuvHgCE0YBhgL/s1024/image.png" itemprop="image">'
 },
 {
   musicName: "Los! Los! Los!",
@@ -276,7 +276,7 @@ var musicDB=[
   class:"1-01-03",
   artist: "ターニャ・デグレチャフ(CV.悠木碧)「幼女戦記」",
   BPM:"240",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/15/024953",
   musicTime:"",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"三角 葵(Lv.1)",
@@ -286,7 +286,7 @@ var musicDB=[
   advancedArray:["6","450","","","","","","46","",""],
   expertArray:["8+","582","","","","","","101","","ロシェ@ペンギン & rioN"],
   masterArray:["12","836","","","","","","94","12.2","rioN"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-2OUs5hYMnlY/W7yklmKfzrI/AAAAAAAACJU/awjs9jVBA9UBXcv_mAEri2Xvu0xqxgrwgCE0YBhgL/s1024/image.png" itemprop="image">'
 },
 {
   musicName: "SAVIOR OF SONG",
@@ -294,7 +294,7 @@ var musicDB=[
   class:"1-01-03",
   artist: "ナノ feat.MY FIRST STORY 「蒼き鋼のアルペジオ ‐アルス・ノヴァ‐」",
   BPM:"192",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/15/025357",
   musicTime:"",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"三角 葵(Lv.1)",
@@ -304,7 +304,7 @@ var musicDB=[
   advancedArray:["7","577","","","","","","74","",""],
   expertArray:["8","588","","","","","","142","","ロシェ@ペンギン & ものくろっく"],
   masterArray:["12","1,175","","","","","","55","12.2","ものくろっく"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-NcwqWQ-8h0k/W7ykwQDWQLI/AAAAAAAACJU/_9hoxKtskm8isaM3enjPKl_FUeHUAP9BgCE0YBhgL/s1024/image.png" itemprop="image">'
 },
 {
   musicName: "心象蜃気楼",
@@ -312,7 +312,7 @@ var musicDB=[
   class:"1-01-03",
   artist: "Orangestar",
   BPM:"190",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/15/025813",
   musicTime:"",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"三角 葵(Lv.3)",
@@ -322,7 +322,7 @@ var musicDB=[
   advancedArray:["6","554","","","","","","57","",""],
   expertArray:["8+","799","","","","","","176","","ものくろっく"],
   masterArray:["12","1,219","","","","","","82","12.2","黒にするrioN"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-EcqY0-OtOtY/W7ylZrlvzWI/AAAAAAAACJk/HFObybcgGpoFa9Qa1XEaZW0NsJ1YrP6xgCE0YBhgL/s1024/image.png" itemprop="image">'
 },
 {
   musicName: "The Formula",
@@ -330,7 +330,7 @@ var musicDB=[
   class:"1-01-03",
   artist: "Junk",
   BPM:"144",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/15/030116",
   musicTime:"",
   chapter:"「目指せ！いっぱいのエール！」",
   Vscha:"三角 葵(Lv.5)",
@@ -340,7 +340,7 @@ var musicDB=[
   advancedArray:["7","467","","","","","","137","",""],
   expertArray:["9+","546","","","","","","278","","ロシェ@ペンギン & ものくろっく"],
   masterArray:["12+","894","","","","","","115","12.7","Revo@LC & ものくろっく"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-gwVkgbAyDIk/W7ymq0l-dKI/AAAAAAAACJ4/X4L8BuC62dY3in050K-xoOb2NbEVL9-8QCE0YBhgL/s1024/image.png" itemprop="image">'
 },
 {
   musicName: "Here We Go",
