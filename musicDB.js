@@ -1,4 +1,4 @@
-var recent=["Perfect Shining!!","STARTLINER","君の知らない物語"];
+var recent=["砂の惑星 feat. HATSUNE MIKU","ゴーストルール","ブリキノダンス","Destiny Runner","最終鬼畜妹フランドール・Ｓ"];
 var musicDB=[
 {
   musicName: "Perfect Shining!!",
