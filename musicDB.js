@@ -348,7 +348,7 @@ var musicDB=[
   class:"1-02-01",
   artist: "曲：TeddyLoid 歌：高瀬 梨緒(CV:久保 ユリカ)",
   BPM:"150",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/15/074239",
   musicTime:"",
   chapter:"「自称・超絶最強、登場！」",
   Vscha:"高瀬 梨緒(Lv.5)",
@@ -358,7 +358,7 @@ var musicDB=[
   advancedArray:["5","432","","","","","","52","",""],
   expertArray:["8+","832","","","","","","103","","ものくろっく"],
   masterArray:["11","819","","","","","","133","11.0","黒にするrioN"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-4NP1fQdyOh4/W7ystI8HuFI/AAAAAAAACKg/zlInRSAzuTIZFYl6U6xGZiXRpQM70vxhgCE0YBhgL/s1024/image.png" itemprop="image">'
 },
 {
   musicName: "Mare Maris",
@@ -366,7 +366,7 @@ var musicDB=[
   class:"1-02-01",
   artist: "M2U",
   BPM:"150",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/15/074849",
   musicTime:"",
   chapter:"「自称・超絶最強、登場！」",
   Vscha:"高瀬 梨緒(Lv.5)",
@@ -376,7 +376,7 @@ var musicDB=[
   advancedArray:["7","464","","","","","","67","",""],
   expertArray:["9","480","","","","","","203","","ロシェ＠ペンギン & ものくろっく"],
   masterArray:["12","886","","","","","","85","12.3","RevorioN"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-fOcoMeQxZew/W7ys0VJ4sFI/AAAAAAAACKg/Yp6VuyEBUhIauwHKQshK7K8nJh2hewAcwCE0YBhgL/s1024/image.png" itemprop="image">'
 },
 {
   musicName: "Hyper Active",
