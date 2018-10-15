@@ -384,7 +384,7 @@ var musicDB=[
   class:"1-02-01",
   artist: "HiTECH NINJA",
   BPM:"160",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/16/043831",
   musicTime:"",
   chapter:"「自称・超絶最強、登場！」",
   Vscha:"高瀬 梨緒(Lv.8)",
@@ -394,7 +394,7 @@ var musicDB=[
   advancedArray:["7+","468","","","","","","114","",""],
   expertArray:["10+","791","","","","","","129","10.7","ロシェ＠ペンギン"],
   masterArray:["12+","1,021","","","","","","143","12.7","ものくろっく"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-kuFhRMR3Rfw/W7yt-PihyGI/AAAAAAAACK0/DuovegLpBno4Hr2QSf3otmF38M21QF9LQCE0YBhgL/s1024/image.png" itemprop="image">'
 },
 {
   musicName: "Brain Power",
@@ -402,7 +402,7 @@ var musicDB=[
   class:"1-02-01",
   artist: "ノマ",
   BPM:"170",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/16/044243",
   musicTime:"",
   chapter:"「自称・超絶最強、登場！」",
   Vscha:"高瀬 梨緒(Lv.8)",
@@ -412,7 +412,7 @@ var musicDB=[
   advancedArray:["6","394","","","","","","23","",""],
   expertArray:["10","600","","","","","","78","10.3","ロシェ＠ペンギン"],
   masterArray:["13","999","","","","","","135","13.6","TAKANASHI-iii-ii-ii-ii"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-NVmEsxj1s0g/W71PZxA2HaI/AAAAAAAACN8/dI-oUYl9kBYSxiRYfUAk1hzCBinQ-xJMQCE0YBhgL/s1024/image.png" itemprop="image">'
 },
 {
   musicName: "Halcyon",
@@ -420,7 +420,7 @@ var musicDB=[
   class:"1-02-01",
   artist: "xi",
   BPM:"191",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/16/044454",
   musicTime:"",
   chapter:"「自称・超絶最強、登場！」",
   Vscha:"高瀬 梨緒(Lv.10)",
@@ -430,7 +430,7 @@ var musicDB=[
   advancedArray:["7+","629","","","","","","","",""],
   expertArray:["11","1,046","","","","","","86","11.0","ものくろっく"],
   masterArray:["13+","1,508","","","","","","131","13.7","Revo@LC"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-8wtTIhuaD8k/W71QFeZ7-ZI/AAAAAAAACOM/9KSJt4Fo-PYeEJdo03xoYPjKuB6ZhS6JwCE0YBhgL/s1024/image.png" itemprop="image">'
 },
 {
   musicName: "Dolphika",
@@ -438,7 +438,7 @@ var musicDB=[
   class:"1-02-01",
   artist: "HiTECH NINJA",
   BPM:"155",
-  URL:"",
+  URL:"https://www.ongeki-blog.com/entry/2018/10/16/044844",
   musicTime:"",
   chapter:"「自称・超絶最強、登場！」",
   Vscha:"高瀬 梨緒(Lv.10)",
@@ -448,7 +448,7 @@ var musicDB=[
   advancedArray:["6","482","","","","","","61","",""],
   expertArray:["10+","768","","","","","","87","10.7","ものくろっく"],
   masterArray:["13","1,386","","","","","","102","13.4","小鳥遊さん"],
-  picture:''
+  picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-gt-exDoR24c/W71QuOwty3I/AAAAAAAACOc/euU_rF_bCAwRxWowE4vIrt31CUgl-3KEgCE0YBhgL/s1024/image.png" itemprop="image">'
 },
   {
   musicName: "P！P！P！P！がおー！！",
