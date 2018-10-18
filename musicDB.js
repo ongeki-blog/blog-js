@@ -1510,7 +1510,7 @@ var musicDB=[
   basicArray:["4","0","","","","","","0","",""],
   advancedArray:["9","0","","","","","","0","",""],
   expertArray:["12","0","","","","","","0","","不明"],
-  masterArray:["14","0","","","","","","0","0","不明"],
+  masterArray:["14","1,367","","","","","","57","0","不明"],
   picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-v8PqoIm5AHU/W8f4Usbs24I/AAAAAAAACkY/MW0XhA1zwg84MH3f2_PfajMiUfRQ8YJHwCE0YBhgL/s1024/image.png" itemprop="image">'
 },
 {
