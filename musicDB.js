@@ -1584,24 +1584,6 @@ var musicDB=[
   expertArray:["9+","0","","","","","","0","","不明"],
   masterArray:["13","0","","","","","","0","0","不明"],
   picture:'<img class="magnifiable" src="https://lh3.googleusercontent.com/-UK0OUPt37R4/W8f4UoMR7AI/AAAAAAAACkY/B5oE9lidBZMmr-ozXKgZK4_XQ6ZHfvzJACE0YBhgL/s1024/image.png" itemprop="image">'
-},
-{
-  musicName: "準備中",
-  genre:"オンゲキ",
-  class:"1-08-01",
-  artist: "",
-  BPM:"",
-  URL:"",
-  musicTime:"",
-  chapter:"世界征服のお誘い",
-  Vscha:"逢坂 茜(Lv.1)",
-  banMethod:"チャプター：世界征服のお誘い",
-  musicDate:"2018.10.18",
-  basicArray:["0","0","","","","","","0","",""],
-  advancedArray:["0","0","","","","","","0","",""],
-  expertArray:["0","668","","","","","","65","","rioN"],
-  masterArray:["0","1,140","","","","","","67","12.5","ものくろっく"],
-  picture:''
 }
 
 ];
